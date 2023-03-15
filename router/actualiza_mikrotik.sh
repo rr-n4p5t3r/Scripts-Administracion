@@ -5,7 +5,7 @@
 # Configuración de variables
 :local currentVersion [/system package get system version]
 :local latestVersion ""
-:local latestVersionUrl "http://download2.mikrotik.com/routeros/6.48.3/routeros-mipsbe-6.48.3.npk" # importante modificar la version del routerOS
+:local latestVersionUrl "http://download2.mikrotik.com/routeros/7.8/routeros-mipsbe-7.8.npk" # importante modificar la version del routerOS
 
 # Descargar la última versión de RouterOS
 /tool fetch url=$latestVersionUrl mode=http
