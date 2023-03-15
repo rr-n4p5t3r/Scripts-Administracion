@@ -1,5 +1,7 @@
 # Creado por n4p5t3r 
-# Email: ciberseguridad@rrsolucionesit.com
+# Email: ciberseguridad@rrsolucionesit.com 
+# Descripcion: script para realizar la actualizacion automatica de un firewall fortigate
+
 # Configuración de variables
 :local currentVersion [/sys version | find "FortiOS"]
 :local latestVersionUrl "https://support.fortinet.com/Download/FirmwareImages.aspx"
