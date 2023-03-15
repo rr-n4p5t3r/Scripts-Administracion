@@ -2,6 +2,7 @@
 
 # Creado por n4p5t3r 
 # Email: ciberseguridad@rrsolucionesit.com
+# Descripcion: script para realizar la actualizacion automatica de una nube nextcloud
 
 # Define variables
 ncpath='/var/www/nextcloud'
