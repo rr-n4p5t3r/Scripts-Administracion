@@ -1,4 +1,4 @@
-# Scripts necesarios para la administración de recursos tecnológicos
+### Scripts necesarios para la administración de recursos tecnológicos ###
 
 <div>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
